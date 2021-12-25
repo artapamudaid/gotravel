@@ -66,7 +66,7 @@ GoTravel
                         <div class="travel-country">INDONESIA</div>
                         <div class="travel-location">DERATAN, BALI</div>
                         <div class="travel-button mt-auto">
-                            <a href="details.html" class="btn btn-travel-details px-4">
+                            <a href="{{ route('detail') }}" class="btn btn-travel-details px-4">
                                 View Details
                             </a>
                         </div>
@@ -78,7 +78,7 @@ GoTravel
                         <div class="travel-country">INDONESIA</div>
                         <div class="travel-location">BROMO, MALANG</div>
                         <div class="travel-button mt-auto">
-                            <a href="details.html" class="btn btn-travel-details px-4">
+                            <a href="{{ route('detail') }}" class="btn btn-travel-details px-4">
                                 View Details
                             </a>
                         </div>
@@ -90,7 +90,7 @@ GoTravel
                         <div class="travel-country">INDONESIA</div>
                         <div class="travel-location">NUSA PENIDA</div>
                         <div class="travel-button mt-auto">
-                            <a href="details.html" class="btn btn-travel-details px-4">
+                            <a href="{{ route('detail') }}" class="btn btn-travel-details px-4">
                                 View Details
                             </a>
                         </div>
@@ -102,7 +102,7 @@ GoTravel
                         <div class="travel-country">INDONESIA</div>
                         <div class="travel-location">DUBAI</div>
                         <div class="travel-button mt-auto">
-                            <a href="details.html" class="btn btn-travel-details px-4">
+                            <a href="{{ route('detail') }}" class="btn btn-travel-details px-4">
                                 View Details
                             </a>
                         </div>
@@ -163,7 +163,7 @@ GoTravel
                     <div class="card card-testimonial text-center">
                         <div class="testimonial-content">
                             <img src="{{ url('frontend/images/avatar-2.png') }}" alt="" class="mb-4 rounded-circle" />
-                            <h3 class="mb-4">Shayna</h3>
+                            <h3 class="mb-4">Galih Pratama</h3>
                             <p class="testimonials">
                                 “ The trip was amazing and I saw something beautiful in that
                                 Island that makes me want to learn more “

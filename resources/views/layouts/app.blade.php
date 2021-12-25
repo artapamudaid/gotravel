@@ -6,7 +6,7 @@
 
     <title>@yield('title')</title>
 
-    @method('prepend-style')
+    @stack('prepend-style')
 
     @include('includes.home.style')
 
@@ -25,7 +25,7 @@
 
     <!-- SCRIPT -->
 
-    @method('prepend-script')
+    @stack('prepend-script')
 
     @include('includes.home.script')
 
