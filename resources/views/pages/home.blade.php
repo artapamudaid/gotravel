@@ -114,25 +114,27 @@ GoTravel
                 <div class="col-sm-6 col-md-6 col-lg-4">
                     <div class="card card-testimonial text-center">
                         <div class="testimonial-content">
-                            <img src="{{ url('frontend/images/avatar-1.png') }}" alt="" class="mb-4 rounded-circle" />
+                            <img src="{{ url('frontend/images/testimonial-1@2x.png') }}" alt=""
+                                class="my-4 rounded-circle" width="50%" />
                             <h3 class="mb-4">Angga Risky</h3>
                             <p class="testimonials">
-                                “ It was glorious and I could not stop to say wohooo for
-                                every single moment Dankeeeeee “
+                                " It was glorious and I could not stop to say wohooo for
+                                every single moment Dankeeeeee "
                             </p>
                         </div>
                         <hr />
-                        <p class="trip-to mt-2">Trip to Ubud</p>
+                        <p class="trip-to mt-2">Trip to Dubai</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-6 col-lg-4">
                     <div class="card card-testimonial text-center">
                         <div class="testimonial-content">
-                            <img src="{{ url('frontend/images/avatar-2.png') }}" alt="" class="mb-4 rounded-circle" />
-                            <h3 class="mb-4">Galih Pratama</h3>
+                            <img src="{{ url('frontend/images/testimonial-2@2x.png') }}" alt=""
+                                class="my-4 rounded-circle" width="50%" />
+                            <h3 class="mb-4">Shayna</h3>
                             <p class="testimonials">
-                                “ The trip was amazing and I saw something beautiful in that
-                                Island that makes me want to learn more “
+                                " The trip was amazing and I saw something beautiful in that
+                                Island that makes me want to learn more "
                             </p>
                         </div>
                         <hr />
@@ -142,15 +144,16 @@ GoTravel
                 <div class="col-sm-6 col-md-6 col-lg-4">
                     <div class="card card-testimonial text-center">
                         <div class="testimonial-content mb-auto">
-                            <img src="{{ url('frontend/images/avatar-3.png') }}" alt="" class="mb-4 rounded-circle" />
+                            <img src="{{ url('frontend/images/testimonial-3@2x.png') }}" alt=""
+                                class="my-4 rounded-circle" width="50%" />
                             <h3 class="mb-4">Shabrina</h3>
                             <p class="testimonials">
-                                “ I loved it when the waves was shaking harder — I was
-                                scared too “
+                                " I loved it when the waves was shaking harder — I was
+                                scared too "
                             </p>
                         </div>
                         <hr />
-                        <p class="trip-to mt-2">Trip to Karimun Jawa</p>
+                        <p class="trip-to mt-2">Trip to Singapore</p>
                     </div>
                 </div>
             </div>

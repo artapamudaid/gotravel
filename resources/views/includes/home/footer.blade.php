@@ -39,12 +39,12 @@
                                 </ul>
                             </div>
                             <div class="col-12 col-lg-3">
-                                <h5>Get Connected</h5>
+                                <h5>GET CONNECTED</h5>
                                 <ul class="list-unstyled">
-                                    <li>Jakarta Selatan</li>
+                                    <li>Kediri, East Java</li>
                                     <li>Indonesia</li>
                                     <li>0821 - 2222 - 8888</li>
-                                    <li>support@nomads.id</li>
+                                    <li>support@gotravel.com</li>
                                 </ul>
                             </div>
                         </div>
@@ -55,8 +55,8 @@
     </div>
     <div class="container-fluid">
         <div class="row border-top justify-content-center align-items-center pt-4">
-            <div class="col-auto text-gray-500 font-weight-light">
-                2019 Copyright Nomads • All rights reserved • Made in Jakarta
+            <div class="col-auto text-white font-weight-light">
+                2021 Copyright GoTravel • All rights reserved • Made in Kediri by Arta Tri Pamuda
             </div>
         </div>
     </div>
